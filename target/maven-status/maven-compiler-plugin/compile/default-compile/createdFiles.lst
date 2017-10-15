@@ -1,2 +1,3 @@
-myMaven\Greeter.class
-myMaven\HelloWorld.class
+myMaven\Application.class
+myMaven\Greeting.class
+myMaven\GreetingController.class
