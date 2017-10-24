@@ -1,3 +1,5 @@
+myMaven\Attributes.class
+myMaven\Iterate.class
 myMaven\Application.class
-myMaven\Greeting.class
-myMaven\GreetingController.class
+myMaven\PathFinder.class
+myMaven\PathController.class
